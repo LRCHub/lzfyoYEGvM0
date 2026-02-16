@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "GODS",
+  "base_artist": "League of Legends & NewJeans",
+  "createdAt": "2026-02-16T08:06:51.899102Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/01_God's_Plan_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "God's Country",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/02_God's_Country_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "God's Country (Acoustic)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/03_God's_Country_(Acoustic)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "god's work",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/04_god's_work_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All God's People",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/05_All_God's_People_Queen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Arms Race for God’s Grace",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/06_Arms_Race_for_God’s_Grace_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/07_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/08_God's_Plan_Drake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Older Gods",
+      "artist": "Wu-Tang Clan",
+      "has_synced": false,
+      "path": "select/09_Older_Gods_Wu-Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Salute da Gods!!",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/10_Salute_da_Gods!!_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gods & Monsters",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/11_Gods_&_Monsters_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All God's Children",
+      "artist": "Love Spit Love",
+      "has_synced": false,
+      "path": "select/12_All_God's_Children_Love_Spit_Love.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We are Gods! We are Wolves!",
+      "artist": "Le Loup",
+      "has_synced": true,
+      "path": "select/13_We_are_Gods!_We_are_Wolves!_Le_Loup.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "GOD'S WITH ME",
+      "artist": "Mike",
+      "has_synced": false,
+      "path": "select/14_GOD'S_WITH_ME_Mike.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "New Gods",
+      "artist": "Meat Puppets",
+      "has_synced": false,
+      "path": "select/15_New_Gods_Meat_Puppets.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Teeth Like God's Shoeshine",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/16_Teeth_Like_God's_Shoeshine_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Teeth Like God's Shoeshine",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/17_Teeth_Like_God's_Shoeshine_Modest_Mouse.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GODS",
+      "artist": "League of Legends",
+      "has_synced": false,
+      "path": "select/pl_01_GODS_League_of_Legends.txt"
+    }
+  ]
+}
